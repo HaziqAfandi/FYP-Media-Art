@@ -47,3 +47,6 @@ Background Music
 https://www.youtube.com/watch?v=_shug-k45Oo
 
 # Floor Plan
+
+![idea 2](https://user-images.githubusercontent.com/34508920/35924872-3a5d2c32-0c5f-11e8-94c6-98f136047244.jpg)
+
