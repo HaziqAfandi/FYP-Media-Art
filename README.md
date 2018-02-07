@@ -29,3 +29,10 @@ Motivation of hope
 - This happen due to that we trust these people and we tend to believe in them in order to believe in ourselves.
 - The result from this motivation can makes us more matured and grown up as we can actually be more independent and plan well for the future.
 # Case Studies
+Nike commercials
+
+Storyline
+
+![screenshot 95](https://user-images.githubusercontent.com/34508920/35924388-e60020b4-0c5d-11e8-8831-218d91b27473.png)
+https://www.youtube.com/watch?v=bvev1Bjx6oA
+
