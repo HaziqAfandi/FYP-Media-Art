@@ -36,3 +36,10 @@ Storyline
 ![screenshot 95](https://user-images.githubusercontent.com/34508920/35924388-e60020b4-0c5d-11e8-8831-218d91b27473.png)
 https://www.youtube.com/watch?v=bvev1Bjx6oA
 
+Narrator Voice
+
+![screenshot 93](https://user-images.githubusercontent.com/34508920/35924676-a53999d8-0c5e-11e8-9044-024025516d60.png)
+https://www.youtube.com/watch?v=WYP9AGtLvRg&t=77s
+
+Background Music
+
