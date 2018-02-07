@@ -50,3 +50,19 @@ https://www.youtube.com/watch?v=_shug-k45Oo
 
 ![idea 2](https://user-images.githubusercontent.com/34508920/35924872-3a5d2c32-0c5f-11e8-94c6-98f136047244.jpg)
 
+![idea 2a](https://user-images.githubusercontent.com/34508920/35924879-3ff12d6a-0c5f-11e8-9c7b-ae2c9f881f4d.jpg)
+
+# Interaction Flow
+
+This is an installation that consist of 4 different kind of era of televisions from the 90's to recent time, 2017. All 4 televisions are arranged nicely side by side in a straight line. A video of short movie will be played on the televisions. Start from the old television first, as a person stand in front of the television, it will be detected by motion sensor, tracked by the webcam from the above and play the movie.The duration of movie for each television will be around 1 or 2 minutes. When the movie ended, the person will move to the next television and goes the same until the last one in order to undertsand the storyline of the movie.
+
+# Software
+- Arduino
+- Processing
+
+# Equipment
+- Televisions x4 
+- webcam
+- arduino
+- motion sensor x4
+- 
