@@ -61,7 +61,7 @@ This is an installation that consist of 4 different kind of era of televisions f
 - Processing
 
 # Equipment
-- Televisions x4 
+- Televisions x4 (15inch, 25 inch, 32 inch, 55 inch)
 - webcam
 - arduino
 - motion sensor x4
