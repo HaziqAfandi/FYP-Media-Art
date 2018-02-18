@@ -71,3 +71,25 @@ This is an installation that consist of 4 different kind of era of televisions f
 
 # Plan B
 # Floor Plan
+
+![idea 3](https://user-images.githubusercontent.com/34508920/36349314-98025620-14be-11e8-9bfc-230ce29d7646.jpg)
+
+# Interaction Flow
+
+This installation is voice reactive LEDs. A person needs to key in on the iPad in one word of what they hope for in life. The hope that they have key in will appeared on the screen 5 meter away from them. The screen are connected to LEDs straight to the mic. The person can say anything that are motivational or inspiring in order to make all the LEDs light up and achieve what they’ve been hope for. The longer or louder the person express themselves, the easier the LEDs will light up.
+
+# Software
+- Arduino
+- Processing
+
+# Equipment
+- LED Strip
+- Monitor
+- Arduino
+- iPad
+- Microphone
+- Mic stand and tablet stand
+
+# Plan C
+# Floor Plan
+
