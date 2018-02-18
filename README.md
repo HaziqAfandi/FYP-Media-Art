@@ -93,3 +93,19 @@ This installation is voice reactive LEDs. A person needs to key in on the iPad i
 # Plan C
 # Floor Plan
 
+![idea 1](https://user-images.githubusercontent.com/34508920/36349317-b2526f2e-14be-11e8-85f7-8870bef67dbe.jpg)
+
+# Interaction Flow
+
+Frames with a picture of famous peoples hanging on the wall. As a person stand in front of the frame, it will detect and lights from the above will lights out and the picture will turned to be a video of the famous people. All the videos will be the motivational speech given by the famous peoples on the frame.
+
+# Software
+- Arduino
+- Processing
+
+# Equipment
+- 20 inch screen x6
+- frames
+- arduino
+- motion sensor
+- lights x6
