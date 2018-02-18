@@ -1,14 +1,14 @@
-# Final-Year-Project-1
+## Final-Year-Project-1
 Media Arts Final Year Project
-# Hope
+## Hope
 Topic : Loss of Hope
 
 Hope is just a word with 4 letters that have no power to it unless there is an action taken or plan to fulfill one's desire. Everyone can have differnet kind of opinion of what hope is. Does not matter if it is big, small, realistic, temporary or permanent as long as it is achievable, that is hope. But sometimes not everything that we hope for will turns out to what we want. Either it did not seems to be as expected or it turns out completely different. This can call as loss of hope.
-# Project Argument
+## Project Argument
 Losing hope in what we have been believing we could achieve can lead into depression.
-# Project Statement
+## Project Statement
 Depression occurs when we felt unmotivated due to our ‘loss of hope’. Motivation can happen by believing the capabilities of ourselves and the support from the closest and the loved one.
-# Background Research
+## Background Research
 Motivation of hope
 1. How Loss of Hope Happens
 - Loss of hope happened when usually when we already execute it and there’s an obstacle coming to stop you and try to bring you down. 
@@ -28,7 +28,7 @@ Motivation of hope
 - Words from the one that we love or from the closest such as parents for example can somehow give us the motivational spirit.
 - This happen due to that we trust these people and we tend to believe in them in order to believe in ourselves.
 - The result from this motivation can makes us more matured and grown up as we can actually be more independent and plan well for the future.
-# Case Studies
+## Case Studies
 Nike commercials
 
 Storyline
@@ -46,6 +46,9 @@ Background Music
 ![screenshot 96](https://user-images.githubusercontent.com/34508920/35924702-b844c200-0c5e-11e8-8642-02a16aaea27c.png)
 https://www.youtube.com/watch?v=_shug-k45Oo
 
+## Installation Plannings
+
+# Plan A
 # Floor Plan
 
 ![idea 2](https://user-images.githubusercontent.com/34508920/35924872-3a5d2c32-0c5f-11e8-94c6-98f136047244.jpg)
@@ -65,4 +68,6 @@ This is an installation that consist of 4 different kind of era of televisions f
 - webcam
 - arduino
 - motion sensor x4
-- 
+
+# Plan B
+# Floor Plan
