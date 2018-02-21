@@ -93,19 +93,21 @@ This installation is voice reactive LEDs. A person needs to key in on the iPad i
 # Plan C
 # Floor Plan
 
-![idea 1](https://user-images.githubusercontent.com/34508920/36349317-b2526f2e-14be-11e8-85f7-8870bef67dbe.jpg)
+![plan b final](https://user-images.githubusercontent.com/34508920/36503820-669c4492-1789-11e8-9dcc-c171b47ef802.jpg)
+
+![plan b final1](https://user-images.githubusercontent.com/34508920/36503833-71d69498-1789-11e8-8de8-388edcf84160.jpg)
+
 
 # Interaction Flow
 
-Frames with a picture of famous peoples hanging on the wall. As a person stand in front of the frame, it will detect and lights from the above will lights out and the picture will turned to be a video of the famous people. All the videos will be the motivational speech given by the famous peoples on the frame.
+This installation is a video-based Augmented Reality, AR. Consist of 4 different kind of era of televisions from the 90's to recent time, 2017 and 4 tablets in from of it. All 4 televisions are arranged nicely side by side in a straight line. Start from the old television, a person need to use the tablet to scan the screen of the tv and play the AR video. A short movie will be played and appeared on the tablet as the person scan to each screen of the tv. The duration of movie for each television will be around 1 or 2 minutes. When the movie ended, the person will move to the next television and goes the same until the last one in order to undertsand the storyline of the movie.
+
 
 # Software
-- Arduino
-- Processing
+- Unity 3D
 
 # Equipment
-- 20 inch screen x6
-- frames
-- arduino
-- motion sensor
-- lights x6
+- Televisions x4 (15inch, 25 inch, 32 inch, 55 inch)
+- Tablets x4
+- Queue Poles
+
