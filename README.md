@@ -28,11 +28,11 @@ Motivation of hope
 - Words from the one that we love or from the closest such as parents for example can somehow give us the motivational spirit.
 - This happen due to that we trust these people and we tend to believe in them in order to believe in ourselves.
 - The result from this motivation can makes us more matured and grown up as we can actually be more independent and plan well for the future.
-4.Asha
--The short form for the name of Aishah.
--In Sanskrit means Hope and Desire.
--In Swahili means Life.
--In Arabic means Woman and Life.
+4. Asha
+- The short form for the name of Aishah.
+- In Sanskrit means Hope and Desire.
+- In Swahili means Life.
+- In Arabic means Woman and Life.
 
 ## Case Studies
 Nike commercials
